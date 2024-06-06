@@ -1,0 +1,16 @@
+.copyRight {
+  position: relative;
+  bottom: 0;
+text-decoration: none;
+  color: white;
+  font-size: 85%;
+
+  width: 90%;
+  text-align: center;
+  padding: 1rem;
+  & a{
+    color: #E50914;
+  }
+}
+
+
