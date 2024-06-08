@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  width: 90%;
+  width: 100%;
   z-index: 2;
   top: 0;
   left: 0;
@@ -26,8 +26,3 @@ header.black {
   background-color: #141414;
 }
 
-@media (max-width: 760px) {
-  header {
-    width: 100%;
-  }
-}
